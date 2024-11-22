@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="Hello, I'm Veronica Arcos!" src="./images/hello.png" /></p>
+<p align="center"><img width="80%" alt="Hello, I'm Veronica Arcos!" src="./images/hello-world.png" /></p>
 
 <br />
 
