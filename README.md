@@ -10,28 +10,26 @@
     <p>• 📫 ¿Cómo contactarme? <b>veronica.arcossoto@gmail.com</b></p>
 </div><br>
 
-<div align="center">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
-</div>
-    
----
-
 <div>
   <h3>🧰 Frameworks, Lenguages de programación y Bibliotecas </h3><br>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=CSS&color=%231572B6&style=for-the-badge&logo=css3&logoColor=whitesmoke" alt="CSS"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=HTML5&color=%231572B6&style=for-the-badge&logo=html5&logoColor=whitesmoke" alt="HTML"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey" alt="Javascript"> </a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Typescript&color=%233178C6&style=for-the-badge&logo=typescript&logoColor=03256C" alt="Typescript"></a>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=REACT.JS&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=grey" alt="REACT.JS"></a>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=MySQL&color=%2361DAFB&style=for-the-badge&logo=mysql&logoColor=grey" alt="MySQL"></a>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Firebase&color=%2361DAFB&style=for-the-badge&logo=firebase&logoColor=grey" alt="Firebase"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Jest&color=%233178C6&style=for-the-badge&logo=jest&logoColor=03256C" alt="Jest"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=REACT.JS&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=grey" alt="REACT.JS"></a><br>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=MySQL&color=whitesmoke&style=for-the-badge&logo=mysql&logoColor=%2300618A" alt="MySQL"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Firebase&color=%23181717&style=for-the-badge&logo=firebase&logoColor=%23FFCA28" alt="Firebase"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Stitches&color=%23FF9A62&style=for-the-badge&logo=Stitches&logoColor=grey" alt="Stitches"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Styled Components&color=%23EF9FD9&style=for-the-badge&logo=StyledComponents&logoColor=grey" alt="StyledComponents"></a>
     <br><br>
     <h3>🙌🏻 Herramientas </h3><br>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke" alt="GIT"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB"></a>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=FIGMA&color=%23552d84&style=for-the-badge&logo=figma&logoColor=whitesmoke" alt="FIGMA"></a>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=SOURCETREE&color=%23552d84&style=for-the-badge&logo=sourcetree&logoColor=whitesmoke" alt="SOURCETREE"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=FIGMA&color=%23A259FF&style=for-the-badge&logo=figma&logoColor=whitesmoke" alt="FIGMA"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=SOURCETREE&color=%232681FF&style=for-the-badge&logo=sourcetree&logoColor=whitesmoke" alt="SOURCETREE"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=STORYBOOK&color=%23FF4785&style=for-the-badge&logo=storybook&logoColor=whitesmoke" alt="STORYBOOK"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=ATLASSIAN&color=%232681FF&style=for-the-badge&logo=atlassian&logoColor=whitesmoke" alt="ATLASSIAN"></a>
 </div>
 
 ___
