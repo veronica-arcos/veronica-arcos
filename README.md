@@ -21,7 +21,7 @@
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=MySQL&color=whitesmoke&style=for-the-badge&logo=mysql&logoColor=%2300618A" alt="MySQL"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Firebase&color=%23181717&style=for-the-badge&logo=firebase&logoColor=%23FFCA28" alt="Firebase"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Stitches&color=%23FF9A62&style=for-the-badge&logo=Stitches&logoColor=grey" alt="Stitches"></a>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Styled Components&color=%23EF9FD9&style=for-the-badge&logo=StyledComponents&logoColor=grey" alt="StyledComponents"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=StyledComponents&color=%23EF9FD9&style=for-the-badge&logo=StyledComponents&logoColor=grey" alt="StyledComponents"></a>
     <br><br>
     <h3>🙌🏻 Herramientas </h3><br>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke" alt="GIT"></a>
